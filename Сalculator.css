@@ -1,0 +1,119 @@
+body {
+    background-color: dimgray;
+    text-align: center;
+    margin-top: 170px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 
+    Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bg-dark {
+    text-align: center;
+}
+
+.text-bg-center {
+    
+    color: azure;
+    border-radius: 7px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+#input1 {
+    padding: 5px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+#input2 {
+    padding: 5px;
+    padding-right: 10px;
+    width: 200px;
+}
+
+
+
+h1 {
+    color: rgb(199, 199, 199);
+}
+
+
+
+#plus {
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background: chartreuse;
+    cursor: pointer;
+    margin-right: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#minus {
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background: crimson;
+    cursor: pointer;
+    margin-left: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#multi {
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background: aqua;
+    cursor: pointer;
+    margin-right: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+#divis {
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background: yellow;
+    cursor: pointer;
+    margin-left: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+
+
+#submit {
+    padding: 5px;
+    background: lightskyblue;
+    cursor: pointer;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT',
+    Calibri, 'Trebuchet MS', sans-serif;
+
+    border-radius: 10px;
+}
+
+#submit:hover {
+    opacity: 0.8;
+}
+
+#plus:hover {
+    opacity: 0.8;
+}
+
+#minus:hover {
+    opacity: 0.8;
+}
+
+#multi:hover {
+    opacity: 0.8;
+}
+
+#divis:hover {
+    opacity: 0.8;
+}
+
